@@ -1,0 +1,1 @@
+a moral da crônica é que não devemos depender unicamente de ferramentas: pode-se usá-las para facilitar a vida, mas apenas se entender fundamentalmente o que está sendo feito.
