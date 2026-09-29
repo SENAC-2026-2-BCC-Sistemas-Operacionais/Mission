@@ -1,0 +1,1 @@
+A moral da história nos diz que não devemos confiar cegamente na ferramenta que utilizamos, mas sim que devemos entender o que está acontecendo naquele processo afim de não ficarmos ignorantes no assunto.
