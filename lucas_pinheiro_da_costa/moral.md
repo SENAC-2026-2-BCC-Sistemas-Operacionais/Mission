@@ -1,0 +1,2 @@
+# Moral da história
+Se utilizamos ferramentas das quais ignoramos o funcionamento, jamais saberemos se os resultados estão corretos. Daí a importância vital de conhecermos a base de funcionamento das máquinas para validar o que fazem
