@@ -1,0 +1,5 @@
+# 
+
+A crônica mostra uma realidade que de certa forma se torna cada vez mais real onde as pessoas ficam extremamente dependentes de ferramentas e deixam de desenvolver habilildades há milênios consideradas essenciais para a humanidade, como fazer contas ou decorrer sobre um assunto de forma mais profunda. Pela trivialidade que hoje em dia as IAs respondem questões que pra humanos custariam muito esforço e aprendizado, nó simplesmente a usamos como uma fonte de conhecimento para quaisquer dúvidas que tenhamos.
+
+Apesar de as IAs serem de fato muito produtivas e eficientes, há muitas coisas que formam a base do que um humano precisa saber não apenas por estudar uma área ou exercer uma profissão, mas por desenvolver a mente humana que no fim é a grande criadora de todos os modelos generativos. Como diz na própria crônica em que as pessoas não sabiam mais fazer as coisas e só dependiam da IA (como no exemplo do 2+2), estamos perdendo habilidades não triviais que são justamente as que precisamos pra inovar e validar as questões mais importantes, como a questão do garoto querer saber validar uma operação matemática não trivial, a qual fez o professor suspirar.
