@@ -1,0 +1,1 @@
+A moral da história é que não devemos depender das ferramentas que temos, vejo ela se aplicando principalmente na IA, no contexto atual. O uso dela deveria ser como ferramenta, mas entendendo do processo como um todo
